@@ -117,7 +117,7 @@ This is a fork of @webrenders's [Synthwave x Fluoromachine VS Code theme](https:
 
 ```json
   "vscode_custom_css.imports": [
-    "file:///Users/{your username}/.vscode/extensions/ohaihfo.synthwave-x-fluoromachine-avant-noir-0.1.0/synthwave-x-fluoromachine-avant-noir.css"
+    "file:///Users/{your username}/.vscode/extensions/ohaihfo.synthwave-x-fluoromachine-avant-noir-0.1.2/synthwave-x-fluoromachine-avant-noir.css"
   ]
 ```
 
@@ -127,7 +127,7 @@ This is a fork of @webrenders's [Synthwave x Fluoromachine VS Code theme](https:
 
 ```json
   "vscode_custom_css.imports": [
-    "file:///C:/Users/{your username}/.vscode/extensions/ohaihfo.synthwave-x-fluoromachine-avant-noir-0.1.0/synthwave-x-fluoromachine-avant-noir.css"
+    "file:///C:/Users/{your username}/.vscode/extensions/ohaihfo.synthwave-x-fluoromachine-avant-noir-0.1.2/synthwave-x-fluoromachine-avant-noir.css"
   ]
 ```
 
@@ -222,3 +222,6 @@ The terminal theme being used in the screenshot is [powerlevel10k](https://githu
 <div align="center">
   <img src="https://raw.githubusercontent.com/OhaiHFO/synthwave-x-fluoromachine-avant-noir/master/icon.png" width="64">
 </div>
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
