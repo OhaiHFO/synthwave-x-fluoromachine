@@ -6,6 +6,10 @@
 	"author": "ohaihfo",
 	"publisher": "ohaihfo",
 	"icon": "icon.png",
+	"homepage": "https://github.com/OhaiHFO/synthwave-x-fluoromachine-avant-noir/blob/master/README.md",
+  "bugs": {
+    "url": "https://github.com/OhaiHFO/synthwave-x-fluoromachine-avant-noir/issues"
+  },
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/OhaiHFO/synthwave-x-fluoromachine-avant-noir/"
@@ -39,6 +43,7 @@
 			}
 		]
 	},
+	"markdown": "github",
 	"__metadata": {
 		"publisherDisplayName": "ohaihfo",
 		"isPreReleaseVersion": false,
