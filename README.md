@@ -2,7 +2,20 @@
   <img src="https://raw.githubusercontent.com/OhaiHFO/synthwave-x-fluoromachine-avant-noir/master/icon.png" width="128">
 </div>
 
+<p>&nbsp;</p>
+
 <h1 id="md-title" align="center">Synthwave <a href="md-title">x</a> Fluoromachine <a href="md-title">🝰</a> Avant Noir</h1>
+
+<p>&nbsp;</p>
+
+**Find on Visual Studio Marketplace:**
+
+
+[https://marketplace.visualstudio.com/items?itemName=OhaiHFO.synthwave-x-fluoromachine-avant-noir](https://marketplace.visualstudio.com/items?itemName=OhaiHFO.synthwave-x-fluoromachine-avant-noir)
+
+<p>&nbsp;</p>
+
+---
 
 <p>&nbsp;</p>
 
@@ -24,7 +37,7 @@ This is a fork of @webrenders's [Synthwave x Fluoromachine VS Code theme](https:
 
 - [Table of Contents](#table-of-contents)
 - [Editions](#editions)
-- [Comparison of Additions (Screenshots)](#comparison-of-additions-screenshots)
+- [Comparison of Editions (Screenshots)](#comparison-of-editions-screenshots)
 - [Installation](#installation)
   - [Option 1: Base Edition](#option-1-base-edition)
   - [Option 2: Extended Edition](#option-2-extended-edition)
@@ -65,7 +78,7 @@ This is a fork of @webrenders's [Synthwave x Fluoromachine VS Code theme](https:
 
 <p>&nbsp;</p>
 
-## Comparison of Additions (Screenshots)
+## Comparison of Editions (Screenshots)
 
 | 🚥&nbsp;&nbsp; Base Edition | 🌈&nbsp;&nbsp; Extended Edition |
 | ----------- | ----------- |
@@ -194,4 +207,18 @@ To enable italics within your editor pane, add the following snippet to your vsc
 
 ![Terminal Screenshot | ohmyzsh | powerlevel10k theme](https://raw.githubusercontent.com/OhaiHFO/synthwave-x-fluoromachine-avant-noir/master/images/terminal_ohmyzsh_powerlevel10k.png)
 
+<p>&nbsp;</p>
+
 The terminal theme being used in the screenshot is [powerlevel10k](https://github.com/romkatv/powerlevel10k) for [ohmyzsh](https://ohmyz.sh/), and is using the [Meslo Nerd Font patched for Powerlevel10k](https://github.com/romkatv/powerlevel10k#meslo-nerd-font-patched-for-powerlevel10k)
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+---
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/OhaiHFO/synthwave-x-fluoromachine-avant-noir/master/icon.png" width="64">
+</div>
