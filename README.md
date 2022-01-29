@@ -192,4 +192,6 @@ To enable italics within your editor pane, add the following snippet to your vsc
 
 <p>&nbsp;</p>
 
+![Terminal Screenshot | ohmyzsh | powerlevel10k theme](https://raw.githubusercontent.com/OhaiHFO/synthwave-x-fluoromachine-avant-noir/master/images/terminal_ohmyzsh_powerlevel10k.png)
+
 The terminal theme being used in the screenshot is [powerlevel10k](https://github.com/romkatv/powerlevel10k) for [ohmyzsh](https://ohmyz.sh/), and is using the [Meslo Nerd Font patched for Powerlevel10k](https://github.com/romkatv/powerlevel10k#meslo-nerd-font-patched-for-powerlevel10k)
