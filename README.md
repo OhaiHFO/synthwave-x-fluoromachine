@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/OhaiHFO/synthwave-x-fluoromachine-avant-noir/master/icon.svg" width="128">
+  <img src="https://raw.githubusercontent.com/OhaiHFO/synthwave-x-fluoromachine-avant-noir/master/icon.png" width="128">
 </div>
 
 <h1 id="md-title" align="center">Synthwave <a href="md-title">x</a> Fluoromachine <a href="md-title">🝰</a> Avant Noir</h1>
