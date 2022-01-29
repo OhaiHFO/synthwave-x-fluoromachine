@@ -8,7 +8,7 @@
 	"icon": "icon.png",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/ohaihfo/synthwave-vscode-x-fluoromachine"
+		"url": "https://github.com/OhaiHFO/synthwave-x-fluoromachine-avant-noir/"
 	},
 	"engines": {
 		"vscode": "^1.33.0"

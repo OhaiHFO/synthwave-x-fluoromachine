@@ -15,9 +15,9 @@
       <Property Id="Microsoft.VisualStudio.Code.ExtensionDependencies" Value="" />
       <Property Id="Microsoft.VisualStudio.Code.ExtensionPack" Value="" />
       <Property Id="Microsoft.VisualStudio.Code.LocalizedLanguages" Value="" />
-      <Property Id="Microsoft.VisualStudio.Services.Links.Source" Value="https://github.com/ohaihfo/synthwave-vscode-x-fluoromachine" />
-      <Property Id="Microsoft.VisualStudio.Services.Links.Getstarted" Value="https://github.com/ohaihfo/synthwave-vscode-x-fluoromachine" />
-      <Property Id="Microsoft.VisualStudio.Services.Links.GitHub" Value="https://github.com/ohaihfo/synthwave-vscode-x-fluoromachine" />
+      <Property Id="Microsoft.VisualStudio.Services.Links.Source" Value="https://github.com/OhaiHFO/synthwave-x-fluoromachine-avant-noir/" />
+      <Property Id="Microsoft.VisualStudio.Services.Links.Getstarted" Value="https://github.com/OhaiHFO/synthwave-x-fluoromachine-avant-noir/" />
+      <Property Id="Microsoft.VisualStudio.Services.Links.GitHub" Value="https://github.com/OhaiHFO/synthwave-x-fluoromachine-avant-noir/" />
       <Property Id="Microsoft.VisualStudio.Services.GitHubFlavoredMarkdown" Value="true" />
     </Properties>
     <Icon>extension/icon.png</Icon>
